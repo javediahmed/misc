@@ -1,0 +1,39 @@
+Total: 310m  
+ Pair: fizzbuzz  (60m)  
+ Environment introduction  (20m)  
+ Pair Demo  (20m)  
+ Day 1 Materials  (40m)  
+ Pandas Intro  (90m)  
+ Command Line  (45m)  
+ Python Review  (75m)  
+ Project 1 Introduction  (20m)Total: 190m  
+ Pair: html  (60m)  
+ Machine Learning Intro  (40m)  
+ Linear Regression Theory Intro  (60m)  
+ Web Scraping Beautifulsoup  (60m)  
+ Project 2 Introduction  (30m)Total: 105m  
+ Pair: String beauty  (60m)  
+ Time Series (TS) Intro and Lab  (105m)Total: 190m  
+ Pair: Parentheses  (60m)  
+ Project 3 Introduction  (20m)  
+ KNN Classification Intro  (60m)  
+ TS Stationarity  (45m)  
+ AWS Setup  (65m)Total: 120m  
+ Pair: Nearest Wookiee Neighbors  (60m)  
+ Class Imbalance  (60m)  
+ Classification And Regression Trees  (60m)Total: 135m  
+ Pair: Conway's Game of Life  (60m)  
+ Deploying Models Production  (60m)  
+ GLM  (75m)Total: 195m  
+ Pair: timeseries  (60m)  
+ Curse Of Dimensionality  (30m)  
+ SVD & PCA  (60m)  
+ Topic Modeling  (105m)Total: 130m  
+ Pair: A/B Test  (60m)  
+ Big Data Overview  (60m)  
+ Experiment Design A/B Testing  (70m)Total: 140m  
+ Pair: boost  (60m)  
+ Project 5 Introduction  (20m)  
+ Spark Intro  (60m)  
+ Xgboost  (60m)Total: 0m  
+ Pair: Unit Testing  (60m)
