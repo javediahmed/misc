@@ -1,3 +1,5 @@
 old/
 #*
 *~
+*pycache*
+airbnb/data/*
