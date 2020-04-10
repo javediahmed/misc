@@ -1,0 +1,25 @@
+Python questions:
+
+Which emerging language do you think of as Python's main challenge in the future?
+
+For people without much programming background, what is the best way to get started using a tool like Python?
+
+As an analyst in an organization where engineers do most of the programming, what steps can I take to improve my ability to interact with the engineering team? 
+
+Which areas within data science are most impacted by Python vs. other tools?
+
+What is the biggest obstacles for companies looking to implement Python or increase its use across different groups?
+
+For someone learning Python, how often do things change (and we need to relearn approaches)?
+
+Which libraries are most important for someone new to Python but familiar with analytics using other tools?
+
+How well does Python integrate with other languages that may have more features (i.e. R for forecasting or Java for database access)?
+
+What are the security risks of using Python, given that it is open source?
+
+
+
+
+
+
