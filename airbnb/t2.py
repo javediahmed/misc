@@ -1,4 +1,10 @@
-import glob, pandas as pd
+import glob, numpy as np, pandas as pd, matplotlib.pyplot as mpl
+
+DATA_PATH = 'Y:/Dropbox/aws/data/'
+
+
+
+breakpoint()
 
 file_list = glob.glob("*data_calendar*")
 
