@@ -1,0 +1,1561 @@
+ts_Field_Description_pre-10-18-2014.txt
+ts_Field_Description_pre-10-18-2014.txt
+** Error: ts_Field_Description_pre-10-18-2014.txt
+ts_Field_Description.txt
+** Error: ts_Field_Description.txt
+turnstile_200404.txt
+** Error: turnstile_200404.txt
+turnstile_200328.txt
+** Error: turnstile_200328.txt
+turnstile_200321.txt
+** Error: turnstile_200321.txt
+turnstile_200314.txt
+** Error: turnstile_200314.txt
+turnstile_200307.txt
+** Error: turnstile_200307.txt
+turnstile_200229.txt
+** Error: turnstile_200229.txt
+turnstile_200222.txt
+** Error: turnstile_200222.txt
+turnstile_200215.txt
+** Error: turnstile_200215.txt
+turnstile_200208.txt
+** Error: turnstile_200208.txt
+turnstile_200201.txt
+** Error: turnstile_200201.txt
+turnstile_200125.txt
+** Error: turnstile_200125.txt
+turnstile_200118.txt
+** Error: turnstile_200118.txt
+turnstile_200111.txt
+** Error: turnstile_200111.txt
+turnstile_200104.txt
+** Error: turnstile_200104.txt
+turnstile_191228.txt
+** Error: turnstile_191228.txt
+turnstile_191221.txt
+** Error: turnstile_191221.txt
+turnstile_191214.txt
+** Error: turnstile_191214.txt
+turnstile_191207.txt
+** Error: turnstile_191207.txt
+turnstile_191130.txt
+** Error: turnstile_191130.txt
+turnstile_191123.txt
+** Error: turnstile_191123.txt
+turnstile_191116.txt
+** Error: turnstile_191116.txt
+turnstile_191109.txt
+** Error: turnstile_191109.txt
+turnstile_191102.txt
+** Error: turnstile_191102.txt
+turnstile_191026.txt
+** Error: turnstile_191026.txt
+turnstile_191019.txt
+** Error: turnstile_191019.txt
+turnstile_191012.txt
+** Error: turnstile_191012.txt
+turnstile_191005.txt
+** Error: turnstile_191005.txt
+turnstile_190928.txt
+** Error: turnstile_190928.txt
+turnstile_190921.txt
+** Error: turnstile_190921.txt
+turnstile_190914.txt
+** Error: turnstile_190914.txt
+turnstile_190907.txt
+** Error: turnstile_190907.txt
+turnstile_190831.txt
+** Error: turnstile_190831.txt
+turnstile_190824.txt
+** Error: turnstile_190824.txt
+turnstile_190817.txt
+** Error: turnstile_190817.txt
+turnstile_190810.txt
+** Error: turnstile_190810.txt
+turnstile_190803.txt
+** Error: turnstile_190803.txt
+turnstile_190727.txt
+** Error: turnstile_190727.txt
+turnstile_190720.txt
+** Error: turnstile_190720.txt
+turnstile_190713.txt
+** Error: turnstile_190713.txt
+turnstile_190706.txt
+** Error: turnstile_190706.txt
+turnstile_190629.txt
+** Error: turnstile_190629.txt
+turnstile_190622.txt
+** Error: turnstile_190622.txt
+turnstile_190615.txt
+** Error: turnstile_190615.txt
+turnstile_190608.txt
+** Error: turnstile_190608.txt
+turnstile_190601.txt
+** Error: turnstile_190601.txt
+turnstile_190525.txt
+** Error: turnstile_190525.txt
+turnstile_190518.txt
+** Error: turnstile_190518.txt
+turnstile_190511.txt
+** Error: turnstile_190511.txt
+turnstile_190504.txt
+** Error: turnstile_190504.txt
+turnstile_190427.txt
+** Error: turnstile_190427.txt
+turnstile_190420.txt
+** Error: turnstile_190420.txt
+turnstile_190413.txt
+** Error: turnstile_190413.txt
+turnstile_190406.txt
+** Error: turnstile_190406.txt
+turnstile_190330.txt
+** Error: turnstile_190330.txt
+turnstile_190323.txt
+** Error: turnstile_190323.txt
+turnstile_190316.txt
+** Error: turnstile_190316.txt
+turnstile_190309.txt
+** Error: turnstile_190309.txt
+turnstile_190302.txt
+** Error: turnstile_190302.txt
+turnstile_190223.txt
+** Error: turnstile_190223.txt
+turnstile_190216.txt
+** Error: turnstile_190216.txt
+turnstile_190209.txt
+** Error: turnstile_190209.txt
+turnstile_190202.txt
+** Error: turnstile_190202.txt
+turnstile_190126.txt
+** Error: turnstile_190126.txt
+turnstile_190119.txt
+** Error: turnstile_190119.txt
+turnstile_190112.txt
+** Error: turnstile_190112.txt
+turnstile_190105.txt
+** Error: turnstile_190105.txt
+turnstile_181229.txt
+** Error: turnstile_181229.txt
+turnstile_181222.txt
+** Error: turnstile_181222.txt
+turnstile_181215.txt
+** Error: turnstile_181215.txt
+turnstile_181208.txt
+** Error: turnstile_181208.txt
+turnstile_181201.txt
+** Error: turnstile_181201.txt
+turnstile_181124.txt
+** Error: turnstile_181124.txt
+turnstile_181117.txt
+** Error: turnstile_181117.txt
+turnstile_181110.txt
+** Error: turnstile_181110.txt
+turnstile_181103.txt
+** Error: turnstile_181103.txt
+turnstile_181027.txt
+** Error: turnstile_181027.txt
+turnstile_181020.txt
+** Error: turnstile_181020.txt
+turnstile_181013.txt
+** Error: turnstile_181013.txt
+turnstile_181006.txt
+** Error: turnstile_181006.txt
+turnstile_180929.txt
+** Error: turnstile_180929.txt
+turnstile_180922.txt
+** Error: turnstile_180922.txt
+turnstile_180915.txt
+** Error: turnstile_180915.txt
+turnstile_180908.txt
+** Error: turnstile_180908.txt
+turnstile_180901.txt
+** Error: turnstile_180901.txt
+turnstile_180825.txt
+** Error: turnstile_180825.txt
+turnstile_180818.txt
+** Error: turnstile_180818.txt
+turnstile_180811.txt
+** Error: turnstile_180811.txt
+turnstile_180804.txt
+** Error: turnstile_180804.txt
+turnstile_180728.txt
+** Error: turnstile_180728.txt
+turnstile_180721.txt
+** Error: turnstile_180721.txt
+turnstile_180714.txt
+** Error: turnstile_180714.txt
+turnstile_180707.txt
+** Error: turnstile_180707.txt
+turnstile_180630.txt
+** Error: turnstile_180630.txt
+turnstile_180623.txt
+** Error: turnstile_180623.txt
+turnstile_180616.txt
+** Error: turnstile_180616.txt
+turnstile_180609.txt
+** Error: turnstile_180609.txt
+turnstile_180602.txt
+** Error: turnstile_180602.txt
+turnstile_180526.txt
+** Error: turnstile_180526.txt
+turnstile_180519.txt
+** Error: turnstile_180519.txt
+turnstile_180512.txt
+** Error: turnstile_180512.txt
+turnstile_180505.txt
+** Error: turnstile_180505.txt
+turnstile_180428.txt
+** Error: turnstile_180428.txt
+turnstile_180421.txt
+** Error: turnstile_180421.txt
+turnstile_180414.txt
+** Error: turnstile_180414.txt
+turnstile_180407.txt
+** Error: turnstile_180407.txt
+turnstile_180331.txt
+** Error: turnstile_180331.txt
+turnstile_180324.txt
+** Error: turnstile_180324.txt
+turnstile_180317.txt
+** Error: turnstile_180317.txt
+turnstile_180310.txt
+** Error: turnstile_180310.txt
+turnstile_180303.txt
+** Error: turnstile_180303.txt
+turnstile_180224.txt
+** Error: turnstile_180224.txt
+turnstile_180217.txt
+** Error: turnstile_180217.txt
+turnstile_180210.txt
+** Error: turnstile_180210.txt
+turnstile_180203.txt
+** Error: turnstile_180203.txt
+turnstile_180127.txt
+** Error: turnstile_180127.txt
+turnstile_180120.txt
+** Error: turnstile_180120.txt
+turnstile_180113.txt
+** Error: turnstile_180113.txt
+turnstile_180106.txt
+** Error: turnstile_180106.txt
+turnstile_171230.txt
+** Error: turnstile_171230.txt
+turnstile_171223.txt
+** Error: turnstile_171223.txt
+turnstile_171216.txt
+** Error: turnstile_171216.txt
+turnstile_171209.txt
+** Error: turnstile_171209.txt
+turnstile_171202.txt
+** Error: turnstile_171202.txt
+turnstile_171125.txt
+** Error: turnstile_171125.txt
+turnstile_171118.txt
+** Error: turnstile_171118.txt
+turnstile_171111.txt
+** Error: turnstile_171111.txt
+turnstile_171104.txt
+** Error: turnstile_171104.txt
+turnstile_171028.txt
+** Error: turnstile_171028.txt
+turnstile_171021.txt
+** Error: turnstile_171021.txt
+turnstile_171014.txt
+** Error: turnstile_171014.txt
+turnstile_171007.txt
+** Error: turnstile_171007.txt
+turnstile_170930.txt
+** Error: turnstile_170930.txt
+turnstile_170923.txt
+** Error: turnstile_170923.txt
+turnstile_170916.txt
+** Error: turnstile_170916.txt
+turnstile_170909.txt
+** Error: turnstile_170909.txt
+turnstile_170902.txt
+** Error: turnstile_170902.txt
+turnstile_170826.txt
+** Error: turnstile_170826.txt
+turnstile_170819.txt
+** Error: turnstile_170819.txt
+turnstile_170812.txt
+** Error: turnstile_170812.txt
+turnstile_170805.txt
+** Error: turnstile_170805.txt
+turnstile_170729.txt
+** Error: turnstile_170729.txt
+turnstile_170722.txt
+** Error: turnstile_170722.txt
+turnstile_170715.txt
+** Error: turnstile_170715.txt
+turnstile_170708.txt
+** Error: turnstile_170708.txt
+turnstile_170701.txt
+** Error: turnstile_170701.txt
+turnstile_170624.txt
+** Error: turnstile_170624.txt
+turnstile_170617.txt
+** Error: turnstile_170617.txt
+turnstile_170610.txt
+** Error: turnstile_170610.txt
+turnstile_170603.txt
+** Error: turnstile_170603.txt
+turnstile_170527.txt
+** Error: turnstile_170527.txt
+turnstile_170520.txt
+** Error: turnstile_170520.txt
+turnstile_170513.txt
+** Error: turnstile_170513.txt
+turnstile_170506.txt
+** Error: turnstile_170506.txt
+turnstile_170429.txt
+** Error: turnstile_170429.txt
+turnstile_170422.txt
+** Error: turnstile_170422.txt
+turnstile_170415.txt
+** Error: turnstile_170415.txt
+turnstile_170408.txt
+** Error: turnstile_170408.txt
+turnstile_170401.txt
+** Error: turnstile_170401.txt
+turnstile_170325.txt
+** Error: turnstile_170325.txt
+turnstile_170318.txt
+** Error: turnstile_170318.txt
+turnstile_170311.txt
+** Error: turnstile_170311.txt
+turnstile_170304.txt
+** Error: turnstile_170304.txt
+turnstile_170225.txt
+** Error: turnstile_170225.txt
+turnstile_170218.txt
+** Error: turnstile_170218.txt
+turnstile_170211.txt
+** Error: turnstile_170211.txt
+turnstile_170204.txt
+** Error: turnstile_170204.txt
+turnstile_170128.txt
+** Error: turnstile_170128.txt
+turnstile_170121.txt
+** Error: turnstile_170121.txt
+turnstile_170114.txt
+** Error: turnstile_170114.txt
+turnstile_170107.txt
+** Error: turnstile_170107.txt
+turnstile_161231.txt
+** Error: turnstile_161231.txt
+turnstile_161224.txt
+** Error: turnstile_161224.txt
+turnstile_161217.txt
+** Error: turnstile_161217.txt
+turnstile_161210.txt
+** Error: turnstile_161210.txt
+turnstile_161203.txt
+** Error: turnstile_161203.txt
+turnstile_161126.txt
+** Error: turnstile_161126.txt
+turnstile_161119.txt
+** Error: turnstile_161119.txt
+turnstile_161112.txt
+** Error: turnstile_161112.txt
+turnstile_161105.txt
+** Error: turnstile_161105.txt
+turnstile_161029.txt
+** Error: turnstile_161029.txt
+turnstile_161022.txt
+** Error: turnstile_161022.txt
+turnstile_161015.txt
+** Error: turnstile_161015.txt
+turnstile_161008.txt
+** Error: turnstile_161008.txt
+turnstile_161001.txt
+** Error: turnstile_161001.txt
+turnstile_160924.txt
+** Error: turnstile_160924.txt
+turnstile_160917.txt
+** Error: turnstile_160917.txt
+turnstile_160910.txt
+** Error: turnstile_160910.txt
+turnstile_160903.txt
+** Error: turnstile_160903.txt
+turnstile_160827.txt
+** Error: turnstile_160827.txt
+turnstile_160820.txt
+** Error: turnstile_160820.txt
+turnstile_160813.txt
+** Error: turnstile_160813.txt
+turnstile_160806.txt
+** Error: turnstile_160806.txt
+turnstile_160730.txt
+** Error: turnstile_160730.txt
+turnstile_160723.txt
+** Error: turnstile_160723.txt
+turnstile_160716.txt
+** Error: turnstile_160716.txt
+turnstile_160709.txt
+** Error: turnstile_160709.txt
+turnstile_160702.txt
+** Error: turnstile_160702.txt
+turnstile_160625.txt
+** Error: turnstile_160625.txt
+turnstile_160618.txt
+** Error: turnstile_160618.txt
+turnstile_160611.txt
+** Error: turnstile_160611.txt
+turnstile_160604.txt
+** Error: turnstile_160604.txt
+turnstile_160528.txt
+** Error: turnstile_160528.txt
+turnstile_160521.txt
+** Error: turnstile_160521.txt
+turnstile_160514.txt
+** Error: turnstile_160514.txt
+turnstile_160507.txt
+** Error: turnstile_160507.txt
+turnstile_160430.txt
+** Error: turnstile_160430.txt
+turnstile_160423.txt
+** Error: turnstile_160423.txt
+turnstile_160416.txt
+** Error: turnstile_160416.txt
+turnstile_160409.txt
+** Error: turnstile_160409.txt
+turnstile_160402.txt
+** Error: turnstile_160402.txt
+turnstile_160326.txt
+** Error: turnstile_160326.txt
+turnstile_160319.txt
+** Error: turnstile_160319.txt
+turnstile_160312.txt
+** Error: turnstile_160312.txt
+turnstile_160305.txt
+** Error: turnstile_160305.txt
+turnstile_160227.txt
+** Error: turnstile_160227.txt
+turnstile_160220.txt
+** Error: turnstile_160220.txt
+turnstile_160213.txt
+** Error: turnstile_160213.txt
+turnstile_160206.txt
+** Error: turnstile_160206.txt
+turnstile_160130.txt
+** Error: turnstile_160130.txt
+turnstile_160123.txt
+** Error: turnstile_160123.txt
+turnstile_160116.txt
+** Error: turnstile_160116.txt
+turnstile_160109.txt
+** Error: turnstile_160109.txt
+turnstile_160102.txt
+** Error: turnstile_160102.txt
+turnstile_151226.txt
+** Error: turnstile_151226.txt
+turnstile_151219.txt
+** Error: turnstile_151219.txt
+turnstile_151212.txt
+** Error: turnstile_151212.txt
+turnstile_151205.txt
+** Error: turnstile_151205.txt
+turnstile_151128.txt
+** Error: turnstile_151128.txt
+turnstile_151121.txt
+** Error: turnstile_151121.txt
+turnstile_151114.txt
+** Error: turnstile_151114.txt
+turnstile_151107.txt
+** Error: turnstile_151107.txt
+turnstile_151031.txt
+** Error: turnstile_151031.txt
+turnstile_151024.txt
+** Error: turnstile_151024.txt
+turnstile_151017.txt
+** Error: turnstile_151017.txt
+turnstile_151010.txt
+** Error: turnstile_151010.txt
+turnstile_151003.txt
+** Error: turnstile_151003.txt
+turnstile_150926.txt
+** Error: turnstile_150926.txt
+turnstile_150919.txt
+** Error: turnstile_150919.txt
+turnstile_150912.txt
+** Error: turnstile_150912.txt
+turnstile_150905.txt
+** Error: turnstile_150905.txt
+turnstile_150829.txt
+** Error: turnstile_150829.txt
+turnstile_150822.txt
+** Error: turnstile_150822.txt
+turnstile_150815.txt
+** Error: turnstile_150815.txt
+turnstile_150808.txt
+** Error: turnstile_150808.txt
+turnstile_150801.txt
+** Error: turnstile_150801.txt
+turnstile_150725.txt
+** Error: turnstile_150725.txt
+turnstile_150718.txt
+** Error: turnstile_150718.txt
+turnstile_150711.txt
+** Error: turnstile_150711.txt
+turnstile_150704.txt
+** Error: turnstile_150704.txt
+turnstile_150627.txt
+** Error: turnstile_150627.txt
+turnstile_150620.txt
+** Error: turnstile_150620.txt
+turnstile_150613.txt
+** Error: turnstile_150613.txt
+turnstile_150606.txt
+** Error: turnstile_150606.txt
+turnstile_150530.txt
+** Error: turnstile_150530.txt
+turnstile_150523.txt
+** Error: turnstile_150523.txt
+turnstile_150516.txt
+** Error: turnstile_150516.txt
+turnstile_150509.txt
+** Error: turnstile_150509.txt
+turnstile_150502.txt
+** Error: turnstile_150502.txt
+turnstile_150425.txt
+** Error: turnstile_150425.txt
+turnstile_150418.txt
+** Error: turnstile_150418.txt
+turnstile_150411.txt
+** Error: turnstile_150411.txt
+turnstile_150404.txt
+** Error: turnstile_150404.txt
+turnstile_150328.txt
+** Error: turnstile_150328.txt
+turnstile_150321.txt
+** Error: turnstile_150321.txt
+turnstile_150314.txt
+** Error: turnstile_150314.txt
+turnstile_150307.txt
+** Error: turnstile_150307.txt
+turnstile_150228.txt
+** Error: turnstile_150228.txt
+turnstile_150221.txt
+** Error: turnstile_150221.txt
+turnstile_150214.txt
+** Error: turnstile_150214.txt
+turnstile_150207.txt
+** Error: turnstile_150207.txt
+turnstile_150131.txt
+** Error: turnstile_150131.txt
+turnstile_150124.txt
+** Error: turnstile_150124.txt
+turnstile_150117.txt
+** Error: turnstile_150117.txt
+turnstile_150110.txt
+** Error: turnstile_150110.txt
+turnstile_150103.txt
+** Error: turnstile_150103.txt
+turnstile_141227.txt
+** Error: turnstile_141227.txt
+turnstile_141220.txt
+** Error: turnstile_141220.txt
+turnstile_141213.txt
+** Error: turnstile_141213.txt
+turnstile_141206.txt
+** Error: turnstile_141206.txt
+turnstile_141129.txt
+** Error: turnstile_141129.txt
+turnstile_141122.txt
+** Error: turnstile_141122.txt
+turnstile_141115.txt
+** Error: turnstile_141115.txt
+turnstile_141108.txt
+** Error: turnstile_141108.txt
+turnstile_141101.txt
+** Error: turnstile_141101.txt
+turnstile_141025.txt
+** Error: turnstile_141025.txt
+turnstile_141018.txt
+** Error: turnstile_141018.txt
+turnstile_141011.txt
+** Error: turnstile_141011.txt
+turnstile_141004.txt
+** Error: turnstile_141004.txt
+turnstile_140927.txt
+** Error: turnstile_140927.txt
+turnstile_140920.txt
+** Error: turnstile_140920.txt
+turnstile_140913.txt
+** Error: turnstile_140913.txt
+turnstile_140906.txt
+** Error: turnstile_140906.txt
+turnstile_140830.txt
+** Error: turnstile_140830.txt
+turnstile_140823.txt
+** Error: turnstile_140823.txt
+turnstile_140816.txt
+** Error: turnstile_140816.txt
+turnstile_140809.txt
+** Error: turnstile_140809.txt
+turnstile_140802.txt
+** Error: turnstile_140802.txt
+turnstile_140726.txt
+** Error: turnstile_140726.txt
+turnstile_140719.txt
+** Error: turnstile_140719.txt
+turnstile_140712.txt
+** Error: turnstile_140712.txt
+turnstile_140705.txt
+** Error: turnstile_140705.txt
+turnstile_140628.txt
+** Error: turnstile_140628.txt
+turnstile_140621.txt
+** Error: turnstile_140621.txt
+turnstile_140614.txt
+** Error: turnstile_140614.txt
+turnstile_140607.txt
+** Error: turnstile_140607.txt
+turnstile_140531.txt
+** Error: turnstile_140531.txt
+turnstile_140524.txt
+** Error: turnstile_140524.txt
+turnstile_140517.txt
+** Error: turnstile_140517.txt
+turnstile_140510.txt
+** Error: turnstile_140510.txt
+turnstile_140503.txt
+** Error: turnstile_140503.txt
+turnstile_140426.txt
+** Error: turnstile_140426.txt
+turnstile_140419.txt
+** Error: turnstile_140419.txt
+turnstile_140412.txt
+** Error: turnstile_140412.txt
+turnstile_140405.txt
+** Error: turnstile_140405.txt
+turnstile_140329.txt
+** Error: turnstile_140329.txt
+turnstile_140322.txt
+** Error: turnstile_140322.txt
+turnstile_140315.txt
+** Error: turnstile_140315.txt
+turnstile_140308.txt
+** Error: turnstile_140308.txt
+turnstile_140301.txt
+** Error: turnstile_140301.txt
+turnstile_140222.txt
+** Error: turnstile_140222.txt
+turnstile_140215.txt
+** Error: turnstile_140215.txt
+turnstile_140208.txt
+** Error: turnstile_140208.txt
+turnstile_140201.txt
+** Error: turnstile_140201.txt
+turnstile_140125.txt
+** Error: turnstile_140125.txt
+turnstile_140118.txt
+** Error: turnstile_140118.txt
+turnstile_140111.txt
+** Error: turnstile_140111.txt
+turnstile_140104.txt
+** Error: turnstile_140104.txt
+turnstile_131228.txt
+** Error: turnstile_131228.txt
+turnstile_131221.txt
+** Error: turnstile_131221.txt
+turnstile_131214.txt
+** Error: turnstile_131214.txt
+turnstile_131207.txt
+** Error: turnstile_131207.txt
+turnstile_131130.txt
+** Error: turnstile_131130.txt
+turnstile_131123.txt
+** Error: turnstile_131123.txt
+turnstile_131116.txt
+** Error: turnstile_131116.txt
+turnstile_131109.txt
+** Error: turnstile_131109.txt
+turnstile_131102.txt
+** Error: turnstile_131102.txt
+turnstile_131026.txt
+** Error: turnstile_131026.txt
+turnstile_131019.txt
+** Error: turnstile_131019.txt
+turnstile_131012.txt
+** Error: turnstile_131012.txt
+turnstile_131005.txt
+** Error: turnstile_131005.txt
+turnstile_130928.txt
+** Error: turnstile_130928.txt
+turnstile_130921.txt
+** Error: turnstile_130921.txt
+turnstile_130914.txt
+** Error: turnstile_130914.txt
+turnstile_130907.txt
+** Error: turnstile_130907.txt
+turnstile_130831.txt
+** Error: turnstile_130831.txt
+turnstile_130824.txt
+** Error: turnstile_130824.txt
+turnstile_130817.txt
+** Error: turnstile_130817.txt
+turnstile_130810.txt
+** Error: turnstile_130810.txt
+turnstile_130803.txt
+** Error: turnstile_130803.txt
+turnstile_130727.txt
+** Error: turnstile_130727.txt
+turnstile_130720.txt
+** Error: turnstile_130720.txt
+turnstile_130713.txt
+** Error: turnstile_130713.txt
+turnstile_130706.txt
+** Error: turnstile_130706.txt
+turnstile_130629.txt
+** Error: turnstile_130629.txt
+turnstile_130622.txt
+** Error: turnstile_130622.txt
+turnstile_130615.txt
+** Error: turnstile_130615.txt
+turnstile_130608.txt
+** Error: turnstile_130608.txt
+turnstile_130601.txt
+** Error: turnstile_130601.txt
+turnstile_130525.txt
+** Error: turnstile_130525.txt
+turnstile_130518.txt
+** Error: turnstile_130518.txt
+turnstile_130511.txt
+** Error: turnstile_130511.txt
+turnstile_130504.txt
+** Error: turnstile_130504.txt
+turnstile_130427.txt
+** Error: turnstile_130427.txt
+turnstile_130420.txt
+** Error: turnstile_130420.txt
+turnstile_130413.txt
+** Error: turnstile_130413.txt
+turnstile_130406.txt
+** Error: turnstile_130406.txt
+turnstile_130330.txt
+** Error: turnstile_130330.txt
+turnstile_130323.txt
+** Error: turnstile_130323.txt
+turnstile_130316.txt
+** Error: turnstile_130316.txt
+turnstile_130309.txt
+** Error: turnstile_130309.txt
+turnstile_130302.txt
+** Error: turnstile_130302.txt
+turnstile_130223.txt
+** Error: turnstile_130223.txt
+turnstile_130216.txt
+** Error: turnstile_130216.txt
+turnstile_130209.txt
+** Error: turnstile_130209.txt
+turnstile_130202.txt
+** Error: turnstile_130202.txt
+turnstile_130126.txt
+** Error: turnstile_130126.txt
+turnstile_130119.txt
+** Error: turnstile_130119.txt
+turnstile_130112.txt
+** Error: turnstile_130112.txt
+turnstile_130105.txt
+** Error: turnstile_130105.txt
+turnstile_121229.txt
+** Error: turnstile_121229.txt
+turnstile_121222.txt
+** Error: turnstile_121222.txt
+turnstile_121215.txt
+** Error: turnstile_121215.txt
+turnstile_121208.txt
+** Error: turnstile_121208.txt
+turnstile_121201.txt
+** Error: turnstile_121201.txt
+turnstile_121124.txt
+** Error: turnstile_121124.txt
+turnstile_121117.txt
+** Error: turnstile_121117.txt
+turnstile_121110.txt
+** Error: turnstile_121110.txt
+turnstile_121103.txt
+** Error: turnstile_121103.txt
+turnstile_121027.txt
+** Error: turnstile_121027.txt
+turnstile_121020.txt
+** Error: turnstile_121020.txt
+turnstile_121013.txt
+** Error: turnstile_121013.txt
+turnstile_121006.txt
+** Error: turnstile_121006.txt
+turnstile_120929.txt
+** Error: turnstile_120929.txt
+turnstile_120922.txt
+** Error: turnstile_120922.txt
+turnstile_120915.txt
+** Error: turnstile_120915.txt
+turnstile_120908.txt
+** Error: turnstile_120908.txt
+turnstile_120901.txt
+** Error: turnstile_120901.txt
+turnstile_120825.txt
+** Error: turnstile_120825.txt
+turnstile_120818.txt
+** Error: turnstile_120818.txt
+turnstile_120811.txt
+** Error: turnstile_120811.txt
+turnstile_120804.txt
+** Error: turnstile_120804.txt
+turnstile_120728.txt
+** Error: turnstile_120728.txt
+turnstile_120721.txt
+** Error: turnstile_120721.txt
+turnstile_120714.txt
+** Error: turnstile_120714.txt
+turnstile_120707.txt
+** Error: turnstile_120707.txt
+turnstile_120630.txt
+** Error: turnstile_120630.txt
+turnstile_120623.txt
+** Error: turnstile_120623.txt
+turnstile_120616.txt
+** Error: turnstile_120616.txt
+turnstile_120609.txt
+** Error: turnstile_120609.txt
+turnstile_120602.txt
+** Error: turnstile_120602.txt
+turnstile_120526.txt
+** Error: turnstile_120526.txt
+turnstile_120519.txt
+** Error: turnstile_120519.txt
+turnstile_120512.txt
+** Error: turnstile_120512.txt
+turnstile_120505.txt
+** Error: turnstile_120505.txt
+turnstile_120428.txt
+** Error: turnstile_120428.txt
+turnstile_120421.txt
+** Error: turnstile_120421.txt
+turnstile_120414.txt
+** Error: turnstile_120414.txt
+turnstile_120407.txt
+** Error: turnstile_120407.txt
+turnstile_120331.txt
+** Error: turnstile_120331.txt
+turnstile_120324.txt
+** Error: turnstile_120324.txt
+turnstile_120317.txt
+** Error: turnstile_120317.txt
+turnstile_120310.txt
+** Error: turnstile_120310.txt
+turnstile_120303.txt
+** Error: turnstile_120303.txt
+turnstile_120225.txt
+** Error: turnstile_120225.txt
+turnstile_120218.txt
+** Error: turnstile_120218.txt
+turnstile_120211.txt
+** Error: turnstile_120211.txt
+turnstile_120204.txt
+** Error: turnstile_120204.txt
+turnstile_120128.txt
+** Error: turnstile_120128.txt
+turnstile_120121.txt
+** Error: turnstile_120121.txt
+turnstile_120114.txt
+** Error: turnstile_120114.txt
+turnstile_120107.txt
+** Error: turnstile_120107.txt
+turnstile_111231.txt
+** Error: turnstile_111231.txt
+turnstile_111224.txt
+** Error: turnstile_111224.txt
+turnstile_111219.txt
+** Error: turnstile_111219.txt
+turnstile_111210.txt
+** Error: turnstile_111210.txt
+turnstile_111203.txt
+** Error: turnstile_111203.txt
+turnstile_111126.txt
+** Error: turnstile_111126.txt
+turnstile_111119.txt
+** Error: turnstile_111119.txt
+turnstile_111112.txt
+** Error: turnstile_111112.txt
+turnstile_111105.txt
+** Error: turnstile_111105.txt
+turnstile_111029.txt
+** Error: turnstile_111029.txt
+turnstile_111022.txt
+** Error: turnstile_111022.txt
+turnstile_111015.txt
+** Error: turnstile_111015.txt
+turnstile_111008.txt
+** Error: turnstile_111008.txt
+turnstile_111001.txt
+** Error: turnstile_111001.txt
+turnstile_110924.txt
+** Error: turnstile_110924.txt
+turnstile_110917.txt
+** Error: turnstile_110917.txt
+turnstile_110910.txt
+** Error: turnstile_110910.txt
+turnstile_110903.txt
+** Error: turnstile_110903.txt
+turnstile_110827.txt
+** Error: turnstile_110827.txt
+turnstile_110820.txt
+** Error: turnstile_110820.txt
+turnstile_110813.txt
+** Error: turnstile_110813.txt
+turnstile_110806.txt
+** Error: turnstile_110806.txt
+turnstile_110730.txt
+** Error: turnstile_110730.txt
+turnstile_110723.txt
+** Error: turnstile_110723.txt
+turnstile_110716.txt
+** Error: turnstile_110716.txt
+turnstile_110709.txt
+** Error: turnstile_110709.txt
+turnstile_110702.txt
+** Error: turnstile_110702.txt
+turnstile_110625.txt
+** Error: turnstile_110625.txt
+turnstile_110618.txt
+** Error: turnstile_110618.txt
+turnstile_110611.txt
+** Error: turnstile_110611.txt
+turnstile_110604.txt
+** Error: turnstile_110604.txt
+turnstile_110528.txt
+** Error: turnstile_110528.txt
+turnstile_110521.txt
+** Error: turnstile_110521.txt
+turnstile_110514.txt
+** Error: turnstile_110514.txt
+turnstile_110507.txt
+** Error: turnstile_110507.txt
+turnstile_110430.txt
+** Error: turnstile_110430.txt
+turnstile_110423.txt
+** Error: turnstile_110423.txt
+turnstile_110416.txt
+** Error: turnstile_110416.txt
+turnstile_110409.txt
+** Error: turnstile_110409.txt
+turnstile_110402.txt
+** Error: turnstile_110402.txt
+turnstile_110326.txt
+** Error: turnstile_110326.txt
+turnstile_110319.txt
+** Error: turnstile_110319.txt
+turnstile_110312.txt
+** Error: turnstile_110312.txt
+turnstile_110305.txt
+** Error: turnstile_110305.txt
+turnstile_110226.txt
+** Error: turnstile_110226.txt
+turnstile_110219.txt
+** Error: turnstile_110219.txt
+turnstile_110212.txt
+** Error: turnstile_110212.txt
+turnstile_110205.txt
+** Error: turnstile_110205.txt
+turnstile_110129.txt
+** Error: turnstile_110129.txt
+turnstile_110122.txt
+** Error: turnstile_110122.txt
+turnstile_110115.txt
+** Error: turnstile_110115.txt
+turnstile_110108.txt
+** Error: turnstile_110108.txt
+turnstile_110101.txt
+** Error: turnstile_110101.txt
+turnstile_101225.txt
+** Error: turnstile_101225.txt
+turnstile_101218.txt
+** Error: turnstile_101218.txt
+turnstile_101211.txt
+** Error: turnstile_101211.txt
+turnstile_101204.txt
+** Error: turnstile_101204.txt
+turnstile_101127.txt
+** Error: turnstile_101127.txt
+turnstile_101120.txt
+** Error: turnstile_101120.txt
+turnstile_101113.txt
+** Error: turnstile_101113.txt
+turnstile_101106.txt
+** Error: turnstile_101106.txt
+turnstile_101030.txt
+** Error: turnstile_101030.txt
+turnstile_101023.txt
+** Error: turnstile_101023.txt
+turnstile_101016.txt
+** Error: turnstile_101016.txt
+turnstile_101009.txt
+** Error: turnstile_101009.txt
+turnstile_101002.txt
+** Error: turnstile_101002.txt
+turnstile_100925.txt
+** Error: turnstile_100925.txt
+turnstile_100918.txt
+** Error: turnstile_100918.txt
+turnstile_100911.txt
+** Error: turnstile_100911.txt
+turnstile_100904.txt
+** Error: turnstile_100904.txt
+turnstile_100828.txt
+** Error: turnstile_100828.txt
+turnstile_100821.txt
+** Error: turnstile_100821.txt
+turnstile_100814.txt
+** Error: turnstile_100814.txt
+turnstile_100807.txt
+** Error: turnstile_100807.txt
+turnstile_100731.txt
+** Error: turnstile_100731.txt
+turnstile_100724.txt
+** Error: turnstile_100724.txt
+turnstile_100717.txt
+** Error: turnstile_100717.txt
+turnstile_100710.txt
+** Error: turnstile_100710.txt
+turnstile_100703.txt
+** Error: turnstile_100703.txt
+turnstile_100626.txt
+** Error: turnstile_100626.txt
+turnstile_100619.txt
+** Error: turnstile_100619.txt
+turnstile_100612.txt
+** Error: turnstile_100612.txt
+turnstile_100605.txt
+** Error: turnstile_100605.txt
+turnstile_100522.txt
+** Error: turnstile_100522.txt
+turnstile_100515.txt
+** Error: turnstile_100515.txt
+turnstile_100508.txt
+** Error: turnstile_100508.txt
+turnstile_100505.txt
+** Error: turnstile_100505.txt
+ts_Field_Description_pre-10-18-2014.txt
+ts_Field_Description.txt
+turnstile_200404.txt
+turnstile_200328.txt
+turnstile_200321.txt
+turnstile_200314.txt
+turnstile_200307.txt
+turnstile_200229.txt
+turnstile_200222.txt
+turnstile_200215.txt
+turnstile_200208.txt
+turnstile_200201.txt
+turnstile_200125.txt
+turnstile_200118.txt
+turnstile_200111.txt
+turnstile_200104.txt
+turnstile_191228.txt
+turnstile_191221.txt
+turnstile_191214.txt
+turnstile_191207.txt
+turnstile_191130.txt
+turnstile_191123.txt
+turnstile_191116.txt
+turnstile_191109.txt
+turnstile_191102.txt
+turnstile_191026.txt
+turnstile_191019.txt
+turnstile_191012.txt
+turnstile_191005.txt
+turnstile_190928.txt
+turnstile_190921.txt
+turnstile_190914.txt
+turnstile_190907.txt
+turnstile_190831.txt
+turnstile_190824.txt
+turnstile_190817.txt
+turnstile_190810.txt
+turnstile_190803.txt
+turnstile_190727.txt
+turnstile_190720.txt
+turnstile_190713.txt
+turnstile_190706.txt
+turnstile_190629.txt
+turnstile_190622.txt
+turnstile_190615.txt
+turnstile_190608.txt
+turnstile_190601.txt
+turnstile_190525.txt
+turnstile_190518.txt
+turnstile_190511.txt
+turnstile_190504.txt
+turnstile_190427.txt
+turnstile_190420.txt
+turnstile_190413.txt
+turnstile_190406.txt
+turnstile_190330.txt
+turnstile_190323.txt
+turnstile_190316.txt
+turnstile_190309.txt
+turnstile_190302.txt
+turnstile_190223.txt
+turnstile_190216.txt
+turnstile_190209.txt
+turnstile_190202.txt
+turnstile_190126.txt
+turnstile_190119.txt
+turnstile_190112.txt
+turnstile_190105.txt
+turnstile_181229.txt
+turnstile_181222.txt
+turnstile_181215.txt
+turnstile_181208.txt
+turnstile_181201.txt
+turnstile_181124.txt
+turnstile_181117.txt
+turnstile_181110.txt
+turnstile_181103.txt
+turnstile_181027.txt
+turnstile_181020.txt
+turnstile_181013.txt
+turnstile_181006.txt
+turnstile_180929.txt
+turnstile_180922.txt
+turnstile_180915.txt
+turnstile_180908.txt
+turnstile_180901.txt
+turnstile_180825.txt
+turnstile_180818.txt
+turnstile_180811.txt
+turnstile_180804.txt
+turnstile_180728.txt
+turnstile_180721.txt
+turnstile_180714.txt
+turnstile_180707.txt
+turnstile_180630.txt
+turnstile_180623.txt
+turnstile_180616.txt
+turnstile_180609.txt
+turnstile_180602.txt
+turnstile_180526.txt
+turnstile_180519.txt
+turnstile_180512.txt
+turnstile_180505.txt
+turnstile_180428.txt
+turnstile_180421.txt
+turnstile_180414.txt
+turnstile_180407.txt
+turnstile_180331.txt
+turnstile_180324.txt
+turnstile_180317.txt
+turnstile_180310.txt
+turnstile_180303.txt
+turnstile_180224.txt
+turnstile_180217.txt
+turnstile_180210.txt
+turnstile_180203.txt
+turnstile_180127.txt
+turnstile_180120.txt
+turnstile_180113.txt
+turnstile_180106.txt
+turnstile_171230.txt
+turnstile_171223.txt
+turnstile_171216.txt
+turnstile_171209.txt
+turnstile_171202.txt
+turnstile_171125.txt
+turnstile_171118.txt
+turnstile_171111.txt
+turnstile_171104.txt
+turnstile_171028.txt
+turnstile_171021.txt
+turnstile_171014.txt
+turnstile_171007.txt
+turnstile_170930.txt
+turnstile_170923.txt
+turnstile_170916.txt
+turnstile_170909.txt
+turnstile_170902.txt
+turnstile_170826.txt
+turnstile_170819.txt
+turnstile_170812.txt
+turnstile_170805.txt
+turnstile_170729.txt
+turnstile_170722.txt
+turnstile_170715.txt
+turnstile_170708.txt
+turnstile_170701.txt
+turnstile_170624.txt
+turnstile_170617.txt
+turnstile_170610.txt
+turnstile_170603.txt
+turnstile_170527.txt
+turnstile_170520.txt
+turnstile_170513.txt
+turnstile_170506.txt
+turnstile_170429.txt
+turnstile_170422.txt
+turnstile_170415.txt
+turnstile_170408.txt
+turnstile_170401.txt
+turnstile_170325.txt
+turnstile_170318.txt
+turnstile_170311.txt
+turnstile_170304.txt
+turnstile_170225.txt
+turnstile_170218.txt
+turnstile_170211.txt
+turnstile_170204.txt
+turnstile_170128.txt
+turnstile_170121.txt
+turnstile_170114.txt
+turnstile_170107.txt
+turnstile_161231.txt
+turnstile_161224.txt
+turnstile_161217.txt
+turnstile_161210.txt
+turnstile_161203.txt
+turnstile_161126.txt
+turnstile_161119.txt
+turnstile_161112.txt
+turnstile_161105.txt
+turnstile_161029.txt
+turnstile_161022.txt
+turnstile_161015.txt
+turnstile_161008.txt
+turnstile_161001.txt
+turnstile_160924.txt
+turnstile_160917.txt
+turnstile_160910.txt
+turnstile_160903.txt
+turnstile_160827.txt
+turnstile_160820.txt
+turnstile_160813.txt
+turnstile_160806.txt
+turnstile_160730.txt
+turnstile_160723.txt
+turnstile_160716.txt
+turnstile_160709.txt
+turnstile_160702.txt
+turnstile_160625.txt
+turnstile_160618.txt
+turnstile_160611.txt
+turnstile_160604.txt
+turnstile_160528.txt
+turnstile_160521.txt
+turnstile_160514.txt
+turnstile_160507.txt
+turnstile_160430.txt
+turnstile_160423.txt
+turnstile_160416.txt
+turnstile_160409.txt
+turnstile_160402.txt
+turnstile_160326.txt
+turnstile_160319.txt
+turnstile_160312.txt
+turnstile_160305.txt
+turnstile_160227.txt
+turnstile_160220.txt
+turnstile_160213.txt
+turnstile_160206.txt
+turnstile_160130.txt
+turnstile_160123.txt
+turnstile_160116.txt
+turnstile_160109.txt
+turnstile_160102.txt
+turnstile_151226.txt
+turnstile_151219.txt
+turnstile_151212.txt
+turnstile_151205.txt
+turnstile_151128.txt
+turnstile_151121.txt
+turnstile_151114.txt
+turnstile_151107.txt
+turnstile_151031.txt
+turnstile_151024.txt
+turnstile_151017.txt
+turnstile_151010.txt
+turnstile_151003.txt
+turnstile_150926.txt
+turnstile_150919.txt
+turnstile_150912.txt
+turnstile_150905.txt
+turnstile_150829.txt
+turnstile_150822.txt
+turnstile_150815.txt
+turnstile_150808.txt
+turnstile_150801.txt
+turnstile_150725.txt
+turnstile_150718.txt
+turnstile_150711.txt
+turnstile_150704.txt
+turnstile_150627.txt
+turnstile_150620.txt
+turnstile_150613.txt
+turnstile_150606.txt
+turnstile_150530.txt
+turnstile_150523.txt
+turnstile_150516.txt
+turnstile_150509.txt
+turnstile_150502.txt
+turnstile_150425.txt
+turnstile_150418.txt
+turnstile_150411.txt
+turnstile_150404.txt
+turnstile_150328.txt
+turnstile_150321.txt
+turnstile_150314.txt
+turnstile_150307.txt
+turnstile_150228.txt
+turnstile_150221.txt
+turnstile_150214.txt
+turnstile_150207.txt
+turnstile_150131.txt
+turnstile_150124.txt
+turnstile_150117.txt
+turnstile_150110.txt
+turnstile_150103.txt
+turnstile_141227.txt
+turnstile_141220.txt
+turnstile_141213.txt
+turnstile_141206.txt
+turnstile_141129.txt
+turnstile_141122.txt
+turnstile_141115.txt
+turnstile_141108.txt
+turnstile_141101.txt
+turnstile_141025.txt
+turnstile_141018.txt
+turnstile_141011.txt
+turnstile_141004.txt
+turnstile_140927.txt
+turnstile_140920.txt
+turnstile_140913.txt
+turnstile_140906.txt
+turnstile_140830.txt
+turnstile_140823.txt
+turnstile_140816.txt
+turnstile_140809.txt
+turnstile_140802.txt
+turnstile_140726.txt
+turnstile_140719.txt
+turnstile_140712.txt
+turnstile_140705.txt
+turnstile_140628.txt
+turnstile_140621.txt
+turnstile_140614.txt
+turnstile_140607.txt
+turnstile_140531.txt
+turnstile_140524.txt
+turnstile_140517.txt
+turnstile_140510.txt
+turnstile_140503.txt
+turnstile_140426.txt
+turnstile_140419.txt
+turnstile_140412.txt
+turnstile_140405.txt
+turnstile_140329.txt
+turnstile_140322.txt
+turnstile_140315.txt
+turnstile_140308.txt
+turnstile_140301.txt
+turnstile_140222.txt
+turnstile_140215.txt
+turnstile_140208.txt
+turnstile_140201.txt
+turnstile_140125.txt
+turnstile_140118.txt
+turnstile_140111.txt
+turnstile_140104.txt
+turnstile_131228.txt
+turnstile_131221.txt
+turnstile_131214.txt
+turnstile_131207.txt
+turnstile_131130.txt
+turnstile_131123.txt
+turnstile_131116.txt
+turnstile_131109.txt
+turnstile_131102.txt
+turnstile_131026.txt
+turnstile_131019.txt
+turnstile_131012.txt
+turnstile_131005.txt
+turnstile_130928.txt
+turnstile_130921.txt
+turnstile_130914.txt
+turnstile_130907.txt
+turnstile_130831.txt
+turnstile_130824.txt
+turnstile_130817.txt
+turnstile_130810.txt
+turnstile_130803.txt
+turnstile_130727.txt
+turnstile_130720.txt
+turnstile_130713.txt
+turnstile_130706.txt
+turnstile_130629.txt
+turnstile_130622.txt
+turnstile_130615.txt
+turnstile_130608.txt
+turnstile_130601.txt
+turnstile_130525.txt
+turnstile_130518.txt
+turnstile_130511.txt
+turnstile_130504.txt
+turnstile_130427.txt
+turnstile_130420.txt
+turnstile_130413.txt
+turnstile_130406.txt
+turnstile_130330.txt
+turnstile_130323.txt
+turnstile_130316.txt
+turnstile_130309.txt
+turnstile_130302.txt
+turnstile_130223.txt
+turnstile_130216.txt
+turnstile_130209.txt
+turnstile_130202.txt
+turnstile_130126.txt
+turnstile_130119.txt
+turnstile_130112.txt
+turnstile_130105.txt
+turnstile_121229.txt
+turnstile_121222.txt
+turnstile_121215.txt
+turnstile_121208.txt
+turnstile_121201.txt
+turnstile_121124.txt
+turnstile_121117.txt
+turnstile_121110.txt
+turnstile_121103.txt
+turnstile_121027.txt
+turnstile_121020.txt
+turnstile_121013.txt
+turnstile_121006.txt
+turnstile_120929.txt
+turnstile_120922.txt
+turnstile_120915.txt
+turnstile_120908.txt
+turnstile_120901.txt
+turnstile_120825.txt
+turnstile_120818.txt
+turnstile_120811.txt
+turnstile_120804.txt
+turnstile_120728.txt
+turnstile_120721.txt
+turnstile_120714.txt
+turnstile_120707.txt
+turnstile_120630.txt
+turnstile_120623.txt
+turnstile_120616.txt
+turnstile_120609.txt
+turnstile_120602.txt
+turnstile_120526.txt
+turnstile_120519.txt
+turnstile_120512.txt
+turnstile_120505.txt
+turnstile_120428.txt
+turnstile_120421.txt
+turnstile_120414.txt
+turnstile_120407.txt
+turnstile_120331.txt
+turnstile_120324.txt
+turnstile_120317.txt
+turnstile_120310.txt
+turnstile_120303.txt
+turnstile_120225.txt
+turnstile_120218.txt
+turnstile_120211.txt
+turnstile_120204.txt
+turnstile_120128.txt
+turnstile_120121.txt
+turnstile_120114.txt
+turnstile_120107.txt
+turnstile_111231.txt
+turnstile_111224.txt
+turnstile_111219.txt
+turnstile_111210.txt
+turnstile_111203.txt
+turnstile_111126.txt
+turnstile_111119.txt
+turnstile_111112.txt
+turnstile_111105.txt
+turnstile_111029.txt
+turnstile_111022.txt
+turnstile_111015.txt
+turnstile_111008.txt
+turnstile_111001.txt
+turnstile_110924.txt
+turnstile_110917.txt
+turnstile_110910.txt
+turnstile_110903.txt
+turnstile_110827.txt
+turnstile_110820.txt
+turnstile_110813.txt
+turnstile_110806.txt
+turnstile_110730.txt
+turnstile_110723.txt
+turnstile_110716.txt
+turnstile_110709.txt
+turnstile_110702.txt
+turnstile_110625.txt
+turnstile_110618.txt
+turnstile_110611.txt
+turnstile_110604.txt
+turnstile_110528.txt
+turnstile_110521.txt
+turnstile_110514.txt
+turnstile_110507.txt
+turnstile_110430.txt
+turnstile_110423.txt
+turnstile_110416.txt
+turnstile_110409.txt
+turnstile_110402.txt
+turnstile_110326.txt
+turnstile_110319.txt
+turnstile_110312.txt
+turnstile_110305.txt
+turnstile_110226.txt
+turnstile_110219.txt
+turnstile_110212.txt
+turnstile_110205.txt
+turnstile_110129.txt
+turnstile_110122.txt
+turnstile_110115.txt
+turnstile_110108.txt
+turnstile_110101.txt
+turnstile_101225.txt
+turnstile_101218.txt
+turnstile_101211.txt
+turnstile_101204.txt
+turnstile_101127.txt
+turnstile_101120.txt
+turnstile_101113.txt
+turnstile_101106.txt
+turnstile_101030.txt
+turnstile_101023.txt
+turnstile_101016.txt
+turnstile_101009.txt
+turnstile_101002.txt
+turnstile_100925.txt
+turnstile_100918.txt
+turnstile_100911.txt
+turnstile_100904.txt
+turnstile_100828.txt
+turnstile_100821.txt
+turnstile_100814.txt
+turnstile_100807.txt
+turnstile_100731.txt
+turnstile_100724.txt
+turnstile_100717.txt
+turnstile_100710.txt
+turnstile_100703.txt
+turnstile_100626.txt
+turnstile_100619.txt
+turnstile_100612.txt
+turnstile_100605.txt
+turnstile_100522.txt
+turnstile_100515.txt
+turnstile_100508.txt
+turnstile_100505.txt
