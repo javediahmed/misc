@@ -75,8 +75,10 @@ city_files_dict = dict(zip(cities, city_calendar_files))
 def main():
     for fname in city_files_dict['seattle']:
 #        read_calendar_file(fname, dpath=data_path, output=True)
-        read_calendar_file(fname, dpath=data_path, output=True, agg=True)
-    
+        try: 
+            read_calendar_file(fname, dpath=data_path, output=True, agg=True)
+        except:
+            print("Error with file: {fname}"
 if __name__=='__main__':
     main()
 

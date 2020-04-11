@@ -31,7 +31,7 @@ def get_file_lists(meta_file):
 if platform.node()[:3] == 'EC2':
     data_path = 'Y:/Dropbox/aws/data/' 
 else:
-    data_path = 'C:/files/metis/misc/airbnb/data'
+    data_path = 'C:/files/metis/misc/airbnb/data/'
 
 def main():
     os.chdir(data_path)
