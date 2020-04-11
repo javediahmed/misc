@@ -78,7 +78,7 @@ def main():
         try: 
             read_calendar_file(fname, dpath=data_path, output=True, agg=True)
         except:
-            print("Error with file: {fname}"
+            print(f"Error with file: {fname}")
 if __name__=='__main__':
     main()
 
