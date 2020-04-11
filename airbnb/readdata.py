@@ -19,19 +19,24 @@ def read_calendar_file(fname, dpath=data_path, agg=False, output=False):
     df['price'] = df['price'].str.replace('$', '')
     df['price'] = df['price'].str.replace(',', '')
     df['price'] = df['price'].astype(float)
+    df['date'] = pd.to_datetime(df['date'])
     if 'adjusted_price' in df.columns:
         df['adjusted_price'] = df['adjusted_price'].str.replace('$', '')
         df['adjusted_price'] = df['adjusted_price'].str.replace(',', '')
-        df['adjusted_price'] = df['adjusted_price'].astype(float)
-    
-    if output:
-#        output_name = dpath + fname.split('.')[0] + '.pkl'
-        output_name = 'sea2.pkl'
-        print('Writing output file: ', output_name)
-#        pickle.dump(df, open(output_name, 'wb'), protocol=4)
-        df.to_pickle(output_name, protocol=4)
-    return df
+        df['adjusted_price'] = df['adjusted_price'].astype(float)  
 
+    if output:
+        if agg:
+            output_name = dpath + fname.split('.')[0] + '_agg' + '.pkl'
+            mindate = df.date.min()
+            df = df.groupby('date').agg({'available':['count', 'mean'], 'price':['count', 'mean']})
+            print('Writing output file: ', output_name)
+            df.to_pickle(output_name, protocol=4)
+        else:    
+            output_name = dpath + fname.split('.')[0] + '.pkl'
+            print('Writing output file: ', output_name)
+            df.to_pickle(output_name, protocol=4)
+    return df
 
 def read_files(file_list, output=False, output_file='test.pkl'):
     errors, output_df = [], pd.DataFrame()
@@ -68,14 +73,10 @@ for c in cities:
 city_files_dict = dict(zip(cities, city_calendar_files))
    
 def main():
-#    os.chdir(data_path)
-#    breakpoint()
-#    df, er = read_files(city_files_dict['seattle'], output=True, output_file='seattle.pkl')
-#    print('df shape: ', df.shape)
-#    print('err:', er)
-#    breakpoint()
-    sea = read_calendar_file(city_files_dict['seattle'][-1], dpath=data_path, output=True)  
-                             
+    for fname in city_files_dict['seattle']:
+#        read_calendar_file(fname, dpath=data_path, output=True)
+        read_calendar_file(fname, dpath=data_path, output=True, agg=True)
+    
 if __name__=='__main__':
     main()
 

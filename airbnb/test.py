@@ -2,10 +2,16 @@
 Run download.py, metadata.py first
 """
 
-import glob, pandas as pd, os, pickle
+import glob, pandas as pd, os, pickle, matplotlib.pyplot as plt
 from metadata import outfile as infile, data_path
 
-df = pd.read_pickle('sea.pkl')
+curdir = os.getcwd()
+os.chdir(data_path)
 
+seafiles = glob.glob('*seattle*.pkl')
+dfs = []
 
-breakpoint()
+for sfile in seafiles:
+    dfs.append(pd.read_pickle(sfile))
+
+#breakpoint()
