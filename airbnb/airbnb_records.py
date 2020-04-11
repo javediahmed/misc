@@ -20,7 +20,7 @@ def get_file_lists(meta_file):
 
 def read_files(file_list):
     errors, output_df = [], pd.DataFrame()
-    for f in file_list[:5]:
+    for f in file_list:
         print(f)
         try:
             df = pd.read_csv(f)
@@ -28,33 +28,21 @@ def read_files(file_list):
             output_df = pd.concat([output_df, df])
         except EOFError:
             errors.append(f)
-    return output_df, errors
+    return output_df.drop_duplicates(), errors
 
 if platform.node()[:3] == 'EC2':
     data_path = 'Y:/Dropbox/aws/data/' 
 else:
     data_path = 'C:/files/metis/misc/airbnb/data'
 os.chdir(data_path)
-
 csv_files = get_metadata("*csv*")
-breakpoint()
 csv_lists = get_file_lists(csv_files)
 json_files = get_metadata("*json*")
 json_lists = get_file_lists(json_files)
-
-breakpoint()
-df_calendar, calendar_errors = read_files(csv_lists[0])
-
-breakpoint()
-
-# df['price'] = df['price'].str.replace('$', '')
-# df['price'] = df['price'].str.replace(',', '')
-# df['price'] = df['price'].astype(float)
-# df['available'] = df.available == 't'
-
-        
-breakpoint()        
-#dft = dfs[0].groupby('date').agg('mean')
-
-
+df, errors = read_files(csv_lists[0])
+df['price'] = df['price'].str.replace('$', '')
+df['price'] = df['price'].str.replace(',', '')
+df['price'] = df['price'].astype(float)
+df['available'] = df.available == 't'
+df.to_pickle(data_path + 'calendar.pkl')
 
