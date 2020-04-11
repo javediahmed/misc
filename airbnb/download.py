@@ -13,6 +13,8 @@ URL = 'http://insideairbnb.com/get-the-data.html'
 OUTPUT_DEST = 'data/'
 #START_FILE = 'greece_crete_crete_2019-02-16_data_listings.csv.gz'
 #START_FILE = 'switzerland_z%C3%BCrich_zurich_2019-10-28_visualisations_neighbourhoods.geojson'
+START_FILE = None
+OUTPUT_LINKS = 'airbnb_links.txt'
 
 def find_links(url):
     response = requests.get(URL)
@@ -44,10 +46,12 @@ def main(url=URL, output_dir=OUTPUT_DEST, unzip=True, start_file=START_FILE):
     for l, link in enumerate(link_targets):
         #link_filename = '_'.join(link.split('/')[3:])
         print(f'{link_filenames[l]}')
+        print(f'{link_filenames[l]}', file=open(OUTPUT_LINKS, 'a'))
         try:
             urlretrieve(link, output_dir + link_filenames[l])           
         except HTTPError:
             print(f'** HTTP Error: {link_filenames[l]}')
+            print(f'** HTTP Error: {link_filenames[l]}', file=open(OUTPUT_LINKS, 'a'))
             link_errors.append(link_filenames[l])
     print(f'Files with errors ({len(link_errors)} of {len(link_targets)}):')
     for error in link_errors:
