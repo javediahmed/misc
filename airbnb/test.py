@@ -21,5 +21,3 @@ for sfile in seafiles:
 
 avail = pd.DataFrame(columns=names)
 
-
-#breakpoint()
