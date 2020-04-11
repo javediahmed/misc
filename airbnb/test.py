@@ -14,8 +14,8 @@ names = []
 for sfile in seafiles:
     newdf = pd.read_pickle(sfile)
     stamp = str(newdf.index[0].date())
-    newdf['stamp'] = stamp
     newdf.columns = ['_'.join(col).strip() for col in newdf.columns.values]
+    newdf['stamp'] = stamp
     dfs.append(newdf)
     names.append(stamp)
 
