@@ -3,3 +3,4 @@ old/
 *~
 *pycache*
 airbnb/data/*
+mta/data/*
