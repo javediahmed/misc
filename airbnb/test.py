@@ -35,5 +35,4 @@ plwide.rolling(7).mean().available_mean.plot(figsize=(20, 20), linewidth=2)
 plwide.rolling(1).mean().price_mean.plot(figsize=(20, 20), linewidth=2)
 plwide.rolling(7).mean().price_mean.plot(figsize=(20, 20), linewidth=2)
 
-
-
+plt.savefig('test.png')
