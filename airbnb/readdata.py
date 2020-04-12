@@ -73,22 +73,11 @@ for c in cities:
 city_files_dict = dict(zip(cities, city_calendar_files))
    
 def main():
-    for fname in city_files_dict['seattle']:
-#        read_calendar_file(fname, dpath=data_path, output=True)
-        try: 
-            read_calendar_file(fname, dpath=data_path, output=True, agg=True)
-        except:
-            print(f"Error with file: {fname}")
+    for key in city_files_dict.keys():
+        for fname in city_files_dict[key]:
+            try: 
+                read_calendar_file(fname, dpath=data_path, output=True, agg=True)
+            except:
+                print(f"Error with file: {fname}")
 if __name__=='__main__':
     main()
-
-
-
-
-#cities ['los-angeles', 'oakland', 'pacific-grove', 'san-diego',
-#       'san-francisco', 'san-mateo-county', 'santa-clara-county',
-#       'santa-cruz-county', 'denver', 'washington-dc', 'broward-county',
-#       'hawaii', 'chicago', 'new-orleans', 'boston', 'cambridge',
-#       'twin-cities-msa', 'asheville', 'jersey-city', 'clark-county-nv',
-#       'new-york-city', 'columbus', 'portland', 'salem-or',
-#       'rhode-island', 'nashville', 'austin', 'seattle']
