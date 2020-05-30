@@ -17,7 +17,7 @@ START_FILE = None
 OUTPUT_LINKS = 'airbnb_links.txt'
 
 def find_links(url):
-    response = requests.get(URL)
+    response = requests.get(url)
     soup = BeautifulSoup(response.text, "lxml")
     return(soup.findAll('a'))
 
