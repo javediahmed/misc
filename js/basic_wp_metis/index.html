@@ -1,0 +1,124 @@
+<html>
+<head>
+  <!-- include jQuery, so we have access to the $.post function -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+  <!-- this is where our functions are defined -->
+  <script src="functions.js"></script>
+
+  <!-- this is where the style is defined -->
+  <link rel='stylesheet' href='style.css' />
+</head>
+<body>
+  <h1>Page title</h1>
+
+  <p>
+    Some cool things that you can do with Javascript:
+    <ul id="javascript_list">
+      <li>Change webpages</li>
+      <li>Calculate results</li>
+      <li>Display message boxes</li>
+      <li>Print to the console</li>
+    </ul>
+  </p>
+
+  <p>
+  This page doesn't use Flask. Instead it just lets you use Javascript by running functions in the console.
+  </p>
+
+  <p>
+  Open the javascript console to run them (on a mac, in the Chrome browser, use option+command+i to open).
+  </p>
+
+  <hr/>
+
+  <h2>jQuery</h2>
+  <ul id="jquery_list">
+    <li>Allows selection of elements</li>
+    <li>Allows communication between Flask and Webpage</li>
+    <li>Change colors and widths</li>
+  </ul>
+
+
+  <div class="colored_div" id="first_div">
+    This is a colored div
+  </div>
+
+  <div class="colored_div" id="second_div">
+    This is a colored div
+  </div>
+
+  <hr/>
+
+  <h2>Selectors</h2>
+
+  To change the elements of the webpage, you need to be able to select them. This is done with CSS selectors.
+  These are the same ones you used when webscraping. Here are some common selectors:
+  <ul>
+    <li><code>'tag_name'</code>: select all <code>tag_name</code>s in document. e.g. <code>'li'</code> selects all list items, <code>'a'</code> selects all links.</li>
+    <li><code>'.class_name'</code>: select all elements that have class <code>class_name</code>. For example <code>'.info'</code> selects all elements with the class <code>'info'</code>. </li>
+    <li><code>'.class_name tag'</code>: selects all <code>tags</code> <i>within</i> elements with class <code>class_name</code>. e.g. <code>'.info li'</code> selects all list items inside elements (mostly divs) with class <code>info</code></li>
+    <li><code>'#id'</code>: selects the element with that <code>id</code>.</li>
+    <li><code>'#id tag'</code>: selects all <code>tags</code> within the element with that <code>id</code>.</li>
+  </ul>
+  Note that on a page an <code>id</code> should be unique, but lots of elements can share the same <code>class</code>.
+
+  <h4>Example of jQuery with selectors</h4>
+
+  <p>
+  The unordered jQuery list above has an id of <code>jquery_list</code>. Enter the following in the console:<br/>
+  <code>
+    $('#jquery_list li').css('color', 'blue');
+  </code><br/>
+  This should change just the selected elements (list items in the element with id <code>jquery_list</code>) to be red.
+  </p>
+
+  <p>
+  Predict what<br/>
+  <code>
+    $('code').css('background-color', 'rgb(255,255,0)')
+  </code><br/>
+  will do.
+  </p>
+
+  <hr/>
+  <h2>Functions</h2>
+  <p>
+    By convention, Python functions are named in <code>snake_case()</code>. Javascript programmers tend to prefer <code>camelCase()</code>. This is a convention only; if you use <code>snake_case</code> in Javascript it will still run.
+  </p>
+
+  <p>
+    Here are some functions you can use from the console already:
+    <ul>
+      <li><code>createAlert()</code></li>
+      <li><code>addNumbersToAlert(num1, num2)</code></li>
+      <li><code>changeH2TagsToText(text)</code></li>
+      <li><code>changeAllListItems(text)</code></li>
+      <li><code>changeAllListItemsInParticularList(list_id, text)</code></li>
+      <li><code>changeColorOfColoredDivs(color_string)</code></li>
+      <li><code>getFirstNSquares(n)</code></li>
+      <li><code>putFirstNSquaresInDiv(n)</code></li>
+      <li><code>rollDie()</code></li>
+    </ul>
+
+    Note that some of these functions will change the page (and the instructions!). You can reset the page using Cmd + R at any time.
+  </p>
+
+
+  <p>
+    Here are some functions we have asked you to implement as exercises:
+    <ul>
+      <li><code>changePageTitle(text)</code>: change the (h1) page title to <code>text</code></li>
+      <li><code>countdown(n)</code>: change the content of the div with id "numbers" to a countdown starting at <code>n</code> (e.g. 3 ... 2 ... 1 ... BLAST OFF!)</li>
+      <li><code>rollTwoDice()</code>: simulate rolling two six sided dice, and tell us what the output is in the div with id numbers (e.g. "You roll a 3 and a 4 for a total of 7")</li>
+    </ul>
+  </p>
+
+  <div class="colored_div" id="third_div">
+    This is a different colored div
+  </div>
+
+  <div id='numbers'>
+  </div>
+</body>
+</html>
