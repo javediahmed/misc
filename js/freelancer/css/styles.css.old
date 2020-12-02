@@ -37,7 +37,7 @@
 }
 
 html {
-  font-family: "Times New Roman", sans-serif;
+  font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -5986,11 +5986,6 @@ a.close.disabled {
 
 .align-text-top {
   vertical-align: text-top !important;
-}
-
-
-.bg-test {
-    background-image: "assets/img/portfolio/net.jpg";
 }
 
 .bg-primary {

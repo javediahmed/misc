@@ -27,15 +27,16 @@
                 </div>
             </div>
         </nav>
-        <header class="masthead bg-primary text-white text-center">
+        <!-- <header class="masthead bg-primary2 text-white text-center"> -->
+        <header class="masthead bg-primary2 text-white text-center">
             <div class="container d-flex align-items-center flex-column">
-                <!-- Masthead Avatar Image--><img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="">
+                <!-- Masthead Avatar Image--><img class="masthead-avatar mb-5" src="assets/img/aic.svg" alt="">
                 <!-- Masthead Heading-->
-                <h1 class="masthead-heading mb-0">Consulting and Development</h1>
+                <h1 class="masthead-heading font-weight-light  mb-1">Business and Customer Analytics</h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-icon"><i class="fas fa-cube"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
@@ -61,43 +62,43 @@
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal0">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div><img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="Log Cabin"/>
+                            </div><img class="img-fluid" src="assets/img/portfolio/screenchart.jpg" alt="Data analytics"/>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div><img class="img-fluid" src="assets/img/portfolio/cake.png" alt="Tasty Cake"/>
+                            </div><img class="img-fluid" src="assets/img/portfolio/laptop.jpg" alt="Tasty Cake"/>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div><img class="img-fluid" src="assets/img/portfolio/circus.png" alt="Circus Tent"/>
+                            </div><img class="img-fluid" src="assets/img/portfolio/net.jpg" alt="Circus Tent" width=1000/>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div><img class="img-fluid" src="assets/img/portfolio/game.png" alt="Controller"/>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div><img class="img-fluid" src="assets/img/portfolio/safe.png" alt="Locked Safe"/>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div><img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="Submarine"/>
-                        </div>
+                    <!-- <div class="col-md-6 col-lg-4 mb-5"> -->
+                    <!--     <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3"> -->
+                    <!--         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"> -->
+                    <!--             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div> -->
+                    <!--         </div><img class="img-fluid" src="assets/img/portfolio/game.png" alt="Controller"/> -->
+                    <!--     </div> -->
+                    <!-- </div> -->
+                    <!-- <div class="col-md-6 col-lg-4 mb-5"> -->
+                    <!--     <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4"> -->
+                    <!--         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"> -->
+                    <!--             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div> -->
+                    <!--         </div><img class="img-fluid" src="assets/img/portfolio/safe.png" alt="Locked Safe"/> -->
+                    <!--     </div> -->
+                    <!-- </div> -->
+                    <!-- <div class="col-md-6 col-lg-4 mb-5"> -->
+                    <!--     <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5"> -->
+                    <!--         <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100"> -->
+                    <!--             <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div> -->
+                    <!--         </div><img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="Submarine"/> -->
+                    <!--     </div> -->
                     </div>
                 </div>
             </div>
@@ -280,10 +281,10 @@
                 <!-- About Section Content-->
                 <div class="row">
                     <div class="col-lg-4 ml-auto">
-                        <p class="pre-wrap lead">Desc 1</p>
+                        <p class="pre-wrap lead">Services description 1</p>
                     </div>
                     <div class="col-lg-4 mr-auto">
-                        <p class="pre-wrap lead">Desc 2</p>
+                        <p class="pre-wrap lead">Services description 2</p>
                     </div>
                 </div>
             </div>
@@ -306,13 +307,13 @@
                         <div class="d-flex flex-column align-items-center">
                             <div class="icon-contact mb-3"><i class="fas fa-mobile-alt"></i></div>
                             <div class="text-muted">Phone</div>
-                            <div class="lead font-weight-bold">(555) 555-5555</div>
+                            <div class="lead font-weight-bold">(206) 512-4420</div>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="d-flex flex-column align-items-center">
                             <div class="icon-contact mb-3"><i class="far fa-envelope"></i></div>
-                            <div class="text-muted">Email</div><a class="lead font-weight-bold" href="mailto:name@example.com">name@example.com</a>
+                            <div class="text-muted">Email</div><a class="lead font-weight-bold" href="mailto:name@example.com">info@aicanalytics.com</a>
                         </div>
                     </div>
                 </div>
@@ -323,18 +324,12 @@
                 <div class="row">
                     <!-- Footer Location-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
+                        <!-- <h4 class="mb-4">LOCATION</h4> -->
+                        <!-- <p class="pre-wrap lead mb-0">300 Lenora St. 261 Seattle, WA 98121</p> -->
+                    </div>
+                    <div class="mb-5">
                         <h4 class="mb-4">LOCATION</h4>
-                        <p class="pre-wrap lead mb-0">300 Lenora St. 261
-Seattle, WA 98121</p>
-                    </div>
-                    <!-- Footer Social Icons-->
-                    <div class="col-lg-4 mb-5 mb-lg-0">
-                        <h4 class="mb-4">AROUND THE WEB</h4><a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/StartBootstrap"><i class="fab fa-fw fa-facebook-f"></i></a><a class="btn btn-outline-light btn-social mx-1" href="https://www.twitter.com/sbootstrap"><i class="fab fa-fw fa-twitter"></i></a><a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/startbootstrap"><i class="fab fa-fw fa-linkedin-in"></i></a><a class="btn btn-outline-light btn-social mx-1" href="https://www.dribble.com/startbootstrap"><i class="fab fa-fw fa-dribbble"></i></a>
-                    </div>
-                    <!-- Footer About Text-->
-                    <div class="col-lg-4">
-                        <h4 class="mb-4">ABOUT FREELANCER</h4>
-                        <p class="pre-wrap lead mb-0">Freelance is a free to use, MIT licensed Bootstrap theme created by Start Bootstrap</p>
+                        <p class="lead mb-0">300 Lenora St. 261 Seattle, WA 98121</p>
                     </div>
                 </div>
             </div>
